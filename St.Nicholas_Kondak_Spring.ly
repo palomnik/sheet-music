@@ -45,7 +45,7 @@ bassMusic = \relative c {
 
 Words = \lyricmode {
 Ri- sing like a star from the East to the West. 
-Your Re- lics bless the o- cean by your pas- sage St. Ni- cho- las
+Your Re- lics bless_the_ocean_by_your_passage St. Ni- cho- las
 }
 
 
